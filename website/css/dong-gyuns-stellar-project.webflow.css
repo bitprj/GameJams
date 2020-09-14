@@ -1005,6 +1005,14 @@
   text-align: left;
 }
 
+.heading-4 {
+  margin-top: 10px;
+  color: #bababa;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
 @media screen and (max-width: 991px) {
   .nav-bar {
     padding-right: 3px;
