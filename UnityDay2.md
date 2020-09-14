@@ -1,0 +1,1 @@
+From Justin - "Building on what we learned from Day 1, we will add a Player Character into our 3D Scene. We will then add a Player Controller, a camera, and enable our Player character to move around in our 3D environment."
